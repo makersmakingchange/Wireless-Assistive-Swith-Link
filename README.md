@@ -6,11 +6,8 @@
 
 The Wireless Assistive Switch Link is a device that enables a wireless connection between an assistive switch and an output device that has a 3.5mm jack. The device also comes pre-set with timing latching settings of 10 seconds, 1 minute, and 5 minutes. This device may be useful for someone who would benefit from a wireless connection between the switch and the output device or using the latching feature for output devices.  It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $40 (plus $40 for component shipping).
 
- 
-PHOTO
+ ![image](https://user-images.githubusercontent.com/98916090/186475599-1a154bf3-6aa2-4ce5-b240-995e96e73b4e.png)
 
- --->
-![Image Description](Photos/Device_Photo.jpg)
 
 <!--- 
 ## More info at
@@ -62,7 +59,6 @@ DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
 --->
  - [CAD Files](/Design_Files/CAD)
- - [PCB Files](/Design_Files/PCB)
 
 ### Build Files
 
