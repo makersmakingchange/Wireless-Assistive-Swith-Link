@@ -1,28 +1,12 @@
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template
- --->
 
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
- --->
  
- <!--- 
-TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
- --->
- # (todo:Project Title)
+ # Wireless Assistive Switch Link
 
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
+## Summary
 
-<!--- 
+The Wireless Assistive Switch Link is a device that enables a wireless connection between an assistive switch and an output device that has a 3.5mm jack. The device also comes pre-set with timing latching settings of 10 seconds, 1 minute, and 5 minutes. This device may be useful for someone who would benefit from a wireless connection between the switch and the output device or using the latching feature for output devices.  It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $40 (plus $40 for component shipping).
+
+ 
 PHOTO
 
  --->
@@ -31,7 +15,7 @@ PHOTO
 <!--- 
 ## More info at
  - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](TBD)
+ - [Makers Making Change Project Page](https://makersmakingchange.com/?post_type=project&p=15716&preview=true)
  --->
 
 
@@ -41,15 +25,15 @@ Include an overall idea of what major steps are required to build the device.
  --->
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/ProductTitle_BOM_v0.1.xlsx) lists all of the parts and components required to build the (todo:Project Title). The electronic components may be available locally, but will probably need to be ordered online. 
+The [Bill of Materials](/Documentation/Wireless_Assistive_Switch_Link_BOM_v1.0.xlsx) lists all of the parts and components required to build the Wireless Assistive Switch Link. 
 
 ### 2. Print the 3D Printable components
-Print the components for the switch tester case and choose an option for the case.
+Print the components for Wireless Assistive Switch Link
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-### 3. Assemble the (todo:Product Title)
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+### 3. Assemble the Wireless Assistive Switch Link
+Reference the [assembly guide](/Documentation/Wireless_Assistive_Switch_Link_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
@@ -64,13 +48,13 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | [ProjectTitle_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
+| Design Specifications| 1.0 | [Wireless Assisitive Switch Link_Design_Specifications](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
+| Design Rationale     | 1.0 | [Wireless Assistive Switch Link_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
+| Bill of Materials    | 1.0 | [Wireless Assistive Switch Link_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
+| Assembly Guide       | 1.0 | [Wireless Assistive Switch Link_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
 | Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
+| User Quick Guide          | 1.0 | [Wireless Assistive Switch Link_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
+| Changelog            | 1.0 | [Wireless Assistive Switch Link Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
 
 ### Design Files
 <!---
@@ -81,12 +65,9 @@ If possible, include a copy of original design files to facilitate easy editing 
  - [PCB Files](/Design_Files/PCB)
 
 ### Build Files
-<!---
-BUILD FILES
-This section i
+
 --->
  - [3D Printing Files](/Build_Files/3D_Printing)
- - [Custom PCB Files](/Build_Files/Custom_PCB)
  - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
 
 ## License
@@ -94,15 +75,13 @@ This section i
 LICENSE
 Choose an appropriate license. We recommend an open-source hardware compatible license.
 --->
-Everything needed or used to design, make, test, or prepare the (todo: Project Title) is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P).
+Everything needed or used to design, make, test, or prepare the Wireless Assistive Switch Link is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P).
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the (todo: Project Title) are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Wireless Assistive Switch Link are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 ## Attribution
-<!---
-ATTRIBUTION
-Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
---->
+Designed by Kerilyn Kennedy - Makers Making Change
+Documentation by Neil Squire / Makers Making Change
 
 
 ## About Makers Making Change
