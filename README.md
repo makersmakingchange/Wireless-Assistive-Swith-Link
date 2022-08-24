@@ -62,7 +62,6 @@ If possible, include a copy of original design files to facilitate easy editing 
 
 ### Build Files
 
---->
  - [3D Printing Files](/Build_Files/3D_Printing)
  - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
 
