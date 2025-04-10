@@ -1,6 +1,4 @@
-
- 
- # Wireless Assistive Switch Link
+# Wireless Assistive Switch Link
 
 ## Summary
 
@@ -50,7 +48,7 @@ DOCUMENTATION
 | Bill of Materials    | 1.0 | [Wireless Assistive Switch Link_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
 | Assembly Guide       | 1.0 | [Wireless Assistive Switch Link_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
 | Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [Wireless Assistive Switch Link_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
+| User Quick Guide     | 1.0 | [Wireless Assistive Switch Link_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
 | Changelog            | 1.0 | [Wireless Assistive Switch Link Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
 
 ### Design Files
@@ -78,7 +76,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 Designed by Kerilyn Kennedy - Makers Making Change
 Documentation by Neil Squire / Makers Making Change
 
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -94,3 +92,5 @@ We are committed to cultivating a network of volunteer makers who support people
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://forum.makersmakingchange.com) or contact info@makersmakingchange.com
+
+<!-- ABOUT MMC END -->
